@@ -2,7 +2,7 @@
 
 # SpaceX Travelers
 
-> This is a React, Css based web application for Bookstore.
+> This is a React, Css based web application for SpaceX.
 
 
 ## Built With
@@ -15,7 +15,7 @@
 - Jest
 
 ## Live Demo (if available)
-> Not Available actually
+> To try the web App enter here [LIVE DEMO](https://spacex-traveller.herokuapp.com/)
 
 ## Getting Started
 
@@ -39,8 +39,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Abdullah**
 
-- GitHub: [@githubhandle](https://github.com/mr-abdellah)
-- LinkedIn: [@linkedinhandle](https://www.linkedin.com/in/belkaidus/)
+- GitHub: [@mr-abdellah](https://github.com/mr-abdellah)
+- LinkedIn: [@belkaiduus](https://www.linkedin.com/in/belkaidus/)
 
 ## 🤝 Contributing
 
