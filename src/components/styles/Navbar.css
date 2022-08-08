@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  padding-left: 3%;
+}
+
+.logo img {
+  width: 6%;
+  height: 6%;
+  margin-right: 3%;
+}
+
+.navbar-links {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  width: 25%;
+  justify-content: space-around;
+}
+
+.divider {
+  background-color: #6d6f72;
+  height: auto;
+  width: 1px;
+}
+
+.navbar-links a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.navbar-links a.active {
+  text-decoration: underline;
+}
